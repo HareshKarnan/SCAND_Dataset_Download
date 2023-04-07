@@ -1,10 +1,13 @@
-### Script to download all the SCAND rosbags recursively :
+## Script to download all the SCAND rosbags recursively :
+
+
+#### To bulk download all the 138 rosbags in SCAND, run the following command:
 
 ~~~ 
 python3 download_scand_bags.py
 ~~~
 
-If you use the SCAND dataset, please consider citing us!
+#### If you use the SCAND dataset, please consider citing us!
 
 ~~~
 @article{karnan2022scand,
@@ -29,4 +32,4 @@ url = {https://doi.org/10.18738/T8/0PRYRH}
 ~~~
 
 
-Note that the SCAND dataset is publically released and permanently accessible from [Texas Data Repository (TDR)](https://doi.org/10.18738/T8/0PRYRH). This github repository is only a temporary location for the dataset until it is recursively downloadable from TACC.
+### Note: the SCAND dataset is publically released and permanently accessible from [Texas Data Repository (TDR)](https://doi.org/10.18738/T8/0PRYRH). Individual rosbags can be accessed and downloaded from TDR. However, we are working on a solution for bulk download. This github repository is only a temporary location for the dataset until it is recursively downloadable from TACC.
