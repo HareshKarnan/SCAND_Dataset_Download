@@ -29,8 +29,4 @@ url = {https://doi.org/10.18738/T8/0PRYRH}
 ~~~
 
 
-Note that the SCAND dataset will permanently be available at Texas Data Repository (TDR) at the following link: 
-~~~
-https://doi.org/10.18738/T8/0PRYRH
-~~~
-This repository is only a temporary location for the dataset until it is recursively downloadable from TACC.
+Note that the SCAND dataset is publically released and permanently accessible from [Texas Data Repository (TDR)](https://doi.org/10.18738/T8/0PRYRH). This github repository is only a temporary location for the dataset until it is recursively downloadable from TACC.
