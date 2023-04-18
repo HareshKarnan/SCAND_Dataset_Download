@@ -37,8 +37,8 @@ def main():
             robot_name = row[1]
             
             # check if we want to download only spot or jackal bags
-            if args.spot_only and robot_name != 'spot': continue
-            if args.jackal_only and robot_name != 'jackal': continue
+            if args.spot_only and robot_name != 'Spot': continue
+            if args.jackal_only and robot_name != 'Jackal': continue
             
             bag_link = row[2]
             bag_name = '{}_{}.bag'.format(bag_number, robot_name)
